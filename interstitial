@@ -6,12 +6,13 @@
 
 </head>
 <body>
-  <!-- Paste your Adcash banner script here -->
-  <script type="text/javascript">
-    aclib.runInterstitial({
-        zoneId: '11610958',
-    });
-</script>
+<div>
+    <script type="text/javascript">
+        aclib.runBanner({
+            zoneId: '11620862',
+        });
+    </script>
+</div>
 
 </body>
 </html>
