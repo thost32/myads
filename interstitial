@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>body{margin:0;padding:0;background:transparent;overflow:hidden;}</style>
+<script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+
+</head>
+<body>
+  <!-- Paste your Adcash banner script here -->
+  <script type="text/javascript">
+    aclib.runInterstitial({
+        zoneId: '11610958',
+    });
+</script>
+
+</body>
+</html>
